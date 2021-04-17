@@ -1,6 +1,6 @@
 # Automation_of_Windows_programs
 
-This will put together Python code that automates Windows programs
+This repository is built to automate Windows and Linux.
 
 ## Basic Requirements
 Download Python from this site go to this link and download https://www.python.org and download the new version.
