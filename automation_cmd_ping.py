@@ -5,8 +5,9 @@ this script checks the ping of the site,
 in other words, it poisons ping requests
 '''
 
-import os # use os
-import webbrowser # use webbrowser
+import os 
+import sys
+import webbrowser 
  
 # create class Ping(): 
 class Ping():
