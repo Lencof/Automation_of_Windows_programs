@@ -2,5 +2,6 @@
 # fast_open_Apple.com.py
 
 import os 
+import sys
 import webbrowser
 os.system('/usr/bin/https://www.apple.com/') # your site and programm. 
