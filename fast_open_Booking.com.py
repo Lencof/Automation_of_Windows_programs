@@ -3,5 +3,7 @@
 
 import os 
 import sys 
+import os.path
 import webbrowser
+
 os.system('/usr/bin/https:/www.booking.com//') # your site and programm. 
