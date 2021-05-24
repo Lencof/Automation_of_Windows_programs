@@ -7,6 +7,7 @@ in other words, it poisons ping requests
 
 import os 
 import sys
+import os.path
 import webbrowser 
  
 # create class Ping(): 
