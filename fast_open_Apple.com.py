@@ -3,5 +3,7 @@
 
 import os 
 import sys
+import os.path
 import webbrowser
+
 os.system('/usr/bin/https://www.apple.com/') # your site and programm. 
