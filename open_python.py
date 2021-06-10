@@ -1,5 +1,5 @@
 # __Author__ __Lencof__
 # open_python.py
 
-import os # use os
+import os 
 os.system('python.exe') # your programm
