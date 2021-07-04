@@ -2,4 +2,4 @@
 # fast_open_Avast.com.py
 
 import webbrowser
-os.system('/usr/bin/https://www.avast.com/') # your site and programm. 
+webbrowser.open_new_tab('https://www.avast.com/') # your site and programm. 
