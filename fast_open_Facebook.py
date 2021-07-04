@@ -6,4 +6,4 @@ if __name__ = '__main__':
     
     
     # Will return True and open a tab
-    webbrowser.open_new_tab("https://web.facebook.com") # your site  
+    webbrowser.open_new_tab("https://www.facebook.com/") # your site  
