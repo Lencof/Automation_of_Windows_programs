@@ -2,4 +2,4 @@
 # fast_open_Apple.com.py
  
 import webbrowser
-os.system('/usr/bin/https://www.glovoapp.com/') # your site and programm. 
+webbrowser.open_new_tab('https://www.glovoapp.com/') # your site and programm. 
