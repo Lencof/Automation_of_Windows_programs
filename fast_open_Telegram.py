@@ -3,6 +3,6 @@
 
 import os 
 
-class Telegram(): # create class Telegram():
+class 
     
 os.system('Telegram.exe') # your programm
