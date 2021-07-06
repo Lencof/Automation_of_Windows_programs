@@ -4,6 +4,5 @@
 import os 
 
 class Winrar(): # create class Winrar():
-    pass # an empty block
-
+    
 os.system('Winrar.exe') # your programm
