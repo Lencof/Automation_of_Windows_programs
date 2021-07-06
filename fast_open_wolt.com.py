@@ -2,4 +2,4 @@
 # fast_open_wolt.com.py
 
 import webbrowser
-os.system('/usr/bin/https://www.wolt.com/') # your site and programm. 
+webbrowser.open_new_tab('https://www.wolt.com/') # your site and programm. 
