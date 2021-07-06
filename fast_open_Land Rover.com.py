@@ -2,4 +2,4 @@
 # fast_open_Land Rover.com.py
 
 import webbrowser
-os.system('/usr/bin/https://www.landrover/') # your site and programm. 
+webbrowser.open_new_tab('https://www.landrover/') # your site and programm. 
