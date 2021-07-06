@@ -2,4 +2,4 @@
 # fast_open_Tesla.com.py
 
 import webbrowser
-os.system('/usr/bin/https://www.tesla.com/') # your site and programm. 
+webbrowser.open_new_tab('https://www.tesla.com/') # your site and programm. 
