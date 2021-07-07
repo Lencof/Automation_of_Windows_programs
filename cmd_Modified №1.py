@@ -3,5 +3,5 @@
 
 import os 
 
-class CMD(): # create class CMD():
-    print(os.system("cmd.exe")) # your programm
+class CMD():
+    print(os.system("cmd.exe")) 
