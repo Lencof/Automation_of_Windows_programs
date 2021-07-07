@@ -2,4 +2,4 @@
 # fast_open_Booking.com.py
 
 import webbrowser
-webbrowser.open_new_tab('https:/www.booking.com//') # your site and programm. 
+webbrowser.open_new_tab('https:/www.booking.com//') 
