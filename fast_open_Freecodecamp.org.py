@@ -2,4 +2,4 @@
 # fast_open_Freecodecamp.org.py
 
 import webbrowser
-webbrowser.open_new_tab('https://www.freecodecamp.org/') # your site 
+webbrowser.open_new_tab('https://www.freecodecamp.org/') 
