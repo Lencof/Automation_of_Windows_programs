@@ -2,4 +2,4 @@
 # fast_open_Burger King.py
 
 import webbrowser 
-webbrowser.open_new_tab('https://www.bk.com/') # your site
+webbrowser.open_new_tab('https://www.bk.com/') 
