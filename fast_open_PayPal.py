@@ -2,4 +2,4 @@
 # fast_open_PayPal.py
 
 import webbrowser 
-webbrowser.open_new_tab('https://www.paypal.com') # your site
+webbrowser.open_new_tab('https://www.paypal.com') 
