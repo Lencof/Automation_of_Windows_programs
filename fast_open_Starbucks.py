@@ -2,4 +2,4 @@
 # fast_open_Starbucks.py
 
 import webbrowser
-webbrowser.open_new_tab('https://www.starbucks.com/') # your site and programm. 
+webbrowser.open_new_tab('https://www.starbucks.com/') 
