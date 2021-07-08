@@ -2,4 +2,4 @@
 # fast_open_Lexus.com.py
 
 import webbrowser
-webbrowser.open_new_tab('https://www.lexus.com/') # your site and programm. 
+webbrowser.open_new_tab('https://www.lexus.com/') 
