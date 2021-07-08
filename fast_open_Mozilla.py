@@ -2,4 +2,4 @@
 # fasr_open_Mozilla.py
 
 import webbrowser 
-webbrowser.open_new_tab("https://www.mozilla.org/") # your site
+webbrowser.open_new_tab("https://www.mozilla.org/")
