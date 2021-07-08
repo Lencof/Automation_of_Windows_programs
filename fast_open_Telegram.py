@@ -2,4 +2,4 @@
 # fast_open_Telegram.py
 
 import os 
-os.system('Telegram.exe') # your programm
+os.system('Telegram.exe') 
