@@ -2,4 +2,4 @@
 # open_python.py
 
 import os 
-os.system('python.exe') # your programm
+os.system('python.exe') 
