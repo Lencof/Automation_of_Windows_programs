@@ -2,4 +2,4 @@
 # fast_open_notepad.py
 
 import os
-os.system('notepad.exe') # your program
+os.system('notepad.exe') 
