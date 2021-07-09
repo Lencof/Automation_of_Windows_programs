@@ -2,4 +2,4 @@
 # fast_open_settings.py
 
 import os 
-os.system("dpiscaling") # your programm
+os.system("dpiscaling") 
