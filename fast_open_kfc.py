@@ -2,4 +2,4 @@
 # fast_open_kfc.py
 
 import webbrowser 
-webbrowser.open_new_tab('https://www.kfc.com') # your site
+webbrowser.open_new_tab('https://www.kfc.com') 
