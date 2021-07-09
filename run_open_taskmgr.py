@@ -2,4 +2,4 @@
 # run_open_taskmgr.py
 
 import os 
-os.system('taskmgr.exe') # your programm
+os.system('taskmgr.exe') 
