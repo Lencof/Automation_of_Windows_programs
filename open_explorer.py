@@ -2,4 +2,4 @@
 # open_explorer.py
 
 import os 
-os.system("explorer") # your programm
+os.system("explorer") 
