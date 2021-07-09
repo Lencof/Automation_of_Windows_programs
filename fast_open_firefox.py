@@ -2,4 +2,4 @@
 # fast_open_firefox.py
 
 import os 
-os.system('/usr/bin/firefox.exe') # your programm
+os.system('/usr/bin/firefox.exe')
