@@ -6,6 +6,4 @@ in other words, it poisons ping requests
 '''
 
 import webbrowser 
-
-class Ping():
-   os.system("cmd.exe/ping/google.com") 
+os.system("cmd.exe/ping/google.com") 
